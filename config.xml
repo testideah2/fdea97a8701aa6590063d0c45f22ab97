@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "drug.com"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. Друзья</name>
+    <name>Друзья</name>
 
     <description>
         Друзья, сайт для  друзей
